@@ -1,0 +1,32 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.profile {
+  border-radius: 100%;
+}
+
+/*Note that you can only have one of each "ID" but you can have
+multiple instances of classes.
+Imagine that classes is akin to names where many people can have the same
+name but ID is like passport where only one person can have a unique
+passport
+Also each HTML element can have multiple classes but only one ID
+Pseudoclass such as :hover
+*/
